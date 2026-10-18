@@ -7,6 +7,7 @@
   "authors": ["Turtlak"],
   "contact": {},
   "license": "MIT",
+  "icon": "assets/threadcraft/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": ["org.turtlak.threadcraft.ThreadCraftMod"],
